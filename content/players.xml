@@ -1,0 +1,10 @@
+<players root="gfx/characters/costumes/"
+         portraitroot="gfx/ui/boss/"
+         nameimageroot="gfx/ui/boss/"
+         bigportraitroot="gfx/ui/stage/">
+	<player name="Cirrus" hp="6" bombs="0"
+          nameimage="playername_cirrus.png"
+          portrait="playerportrait_cirrus.png"
+          bigportrait="playerportraitbig_cirrus.png"
+          skin="character_Cirrus.png" skinColor="-1" />
+</players>

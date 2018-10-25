@@ -1,0 +1,4 @@
+<items gfxroot="gfx/items/" version="1">
+    <active name="Busted Sword" description="Break the limit!" gfx="collectible_busted_sword.png" maxcharges="4" />
+    <trinket name="Materia" description="Fireball!" gfx="trinket_materia.png" />
+</items>
